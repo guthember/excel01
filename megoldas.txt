@@ -1,0 +1,4 @@
+Megoldás (a feladatoknál más megoldás is lehetséges)
+1. Adatok -> Külsõ adatok átvétele -> Szövegbõl
+2. Sor kijelölése -> Helyi menü (egér jobb gomb) -> Beszúrás (A sor elé szúrja be)
+3. 
